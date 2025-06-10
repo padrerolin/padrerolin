@@ -24,7 +24,7 @@
 <div align="left">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=padrerolin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=padrerolin&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=padrerolin&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  /> -->
 </div>
 
 ###
