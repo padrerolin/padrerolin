@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Elmano Neves
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho como back-end
 - 🌱 Estudando React e NodeJS
 
 <div>
